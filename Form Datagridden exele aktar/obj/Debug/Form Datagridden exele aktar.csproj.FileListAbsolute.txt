@@ -1,0 +1,11 @@
+C:\Users\reela\source\repos\Form Datagridden exele aktar\Form Datagridden exele aktar\obj\Debug\Form Datagridden exele aktar.csprojAssemblyReference.cache
+C:\Users\reela\source\repos\Form Datagridden exele aktar\Form Datagridden exele aktar\obj\Debug\Form Datagridden exele aktar.csproj.ResolveComReference.cache
+C:\Users\reela\source\repos\Form Datagridden exele aktar\Form Datagridden exele aktar\obj\Debug\Form_Datagridden_exele_aktar.Form1.resources
+C:\Users\reela\source\repos\Form Datagridden exele aktar\Form Datagridden exele aktar\obj\Debug\Form_Datagridden_exele_aktar.Properties.Resources.resources
+C:\Users\reela\source\repos\Form Datagridden exele aktar\Form Datagridden exele aktar\obj\Debug\Form Datagridden exele aktar.csproj.GenerateResource.cache
+C:\Users\reela\source\repos\Form Datagridden exele aktar\Form Datagridden exele aktar\obj\Debug\Form Datagridden exele aktar.csproj.CoreCompileInputs.cache
+C:\Users\reela\source\repos\Form Datagridden exele aktar\Form Datagridden exele aktar\bin\Debug\Form Datagridden exele aktar.exe.config
+C:\Users\reela\source\repos\Form Datagridden exele aktar\Form Datagridden exele aktar\bin\Debug\Form Datagridden exele aktar.exe
+C:\Users\reela\source\repos\Form Datagridden exele aktar\Form Datagridden exele aktar\bin\Debug\Form Datagridden exele aktar.pdb
+C:\Users\reela\source\repos\Form Datagridden exele aktar\Form Datagridden exele aktar\obj\Debug\Form Datagridden exele aktar.exe
+C:\Users\reela\source\repos\Form Datagridden exele aktar\Form Datagridden exele aktar\obj\Debug\Form Datagridden exele aktar.pdb
